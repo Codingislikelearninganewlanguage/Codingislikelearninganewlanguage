@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me email me at kingkong2019.com@gmail.com
 - All projects i post are under the GPLv3 Liscense
-- You may not use my projects for monteary gain.
+- You may use my projects for monetary gain but you will have to credit me
 
