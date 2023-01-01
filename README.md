@@ -5,4 +5,4 @@
 - 📫 How to reach me email me at kingkong2019.com@gmail.com
 - All projects i post are under the GPLv3 Liscense
 - You may use my projects for monetary gain but you will have to credit me
-
+- I prefer simplicity over complexity!
